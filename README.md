@@ -9,3 +9,6 @@ updates will be as and when but will be logged
 Drifty
 
 V2 cad - updated the top idlers - holes had weird annomolies
+
+V3 cad - XZ joints had a complete rework, thinker stronger and now with fixings in cad. XZ double shear has had updates and fixings added. Y double shear had been amended to use F695 bearings to match the XZ and reducing BOM complexity.
+probably other stuff ive forgotten too...
